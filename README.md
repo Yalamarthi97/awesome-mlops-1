@@ -283,6 +283,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models.
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
+* [Censius](https://censius.ai/platform) - An AI Observability that helps organizations of all scales confidently make their models work in production.
 
 ## Workflow Tools
 
